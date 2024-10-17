@@ -46,7 +46,7 @@ oyarkin@client2:~/Desktop$ ip a
 
 routeur :
 ```powershell
-2: enp0s3: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+2: enp0s8: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
     link/ether 08:00:27:1d:48:24 brd ff:ff:ff:ff:ff:ff
     inet 10.5.1.254/24 brd 10.5.1.255 scope global noprefixroute enp0s8
        valid_lft forever preferred_lft forever
